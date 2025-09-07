@@ -1,0 +1,20 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore build results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.vs/
+
+# Ignore temp files
+*.tmp
+*.swp
